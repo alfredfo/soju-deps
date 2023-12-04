@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47e54855eb4a1e5bc96ad9a6a1e33db0669ba6965dda051f2eeffcfaca20a04c
-size 276
+soju-0.6.2-deps.tar.xz filter=lfs diff=lfs merge=lfs -text
+soju-0.6.0-deps.tar.xz filter=lfs diff=lfs merge=lfs -text
+soju-0.6.1-deps.tar.xz filter=lfs diff=lfs merge=lfs -text
+soju-0.7.0-deps.tar.xz filter=lfs diff=lfs merge=lfs -text
